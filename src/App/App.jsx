@@ -1,6 +1,10 @@
+import React from 'react';
+import { RegistrationForm } from './RegistrationForm/RegistrationForm';
 
 function App () {
-  return null;
+  return <>
+    <RegistrationForm/>
+  </>;
 }
 
 export default App;
